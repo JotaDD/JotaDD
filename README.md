@@ -1,12 +1,14 @@
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Joao Gomes</h1>
+<h1 align="center">Hello! Welcome to my Github profile. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jotadd&color=blue" alt="Profile views" /> </p>
 
-<h3 align="center" style="font-size: 22px">Junior Web Developer </h3
+<h2  style="font-size: 22px">My name is Joao Gomes </h2>
+<p  style="font-size: 22px">:fire: Junior Web Developer </p>
+<p  style="font-size: 22px">:mechanical_arm: Tech Enthusiast </p>
 
 <br><br>
 
 ### 📚 Learning and improving 👈
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -24,12 +26,10 @@
 
 <br><br>
 
-
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=jotadd&show_icons=true&theme=react" alt="jotadd's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotadd&layout=compact&theme=react" alt="jotadd's most languages"/>
 </p>
-
 
 <br><br>
 
@@ -43,5 +43,3 @@
  <img align="center" src="https://img.shields.io/badge/-JotaDD-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-
