@@ -2,10 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jotadd&color=blue" alt="Profile views" /> </p>
 
 <h2  style="font-size: 22px">My name is Joao Gomes </h2>
-<p  style="font-size: 22px">:fire: Junior Web Developer </p>
-<p  style="font-size: 22px">:mechanical_arm: Tech Enthusiast </p>
-
-<br><br>
+<h3  style="font-size: 22px">:fire: Junior Web Developer </h3>
+<h3  style="font-size: 22px">:mechanical_arm: Tech Enthusiast </h3>
 
 ### 📚 Learning and improving 👈
 
