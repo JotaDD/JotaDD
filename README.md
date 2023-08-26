@@ -19,15 +19,6 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=next.js&logoColor=white)
 
-<br><br>
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=jotadd&show_icons=true&theme=react" alt="jotadd's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotadd&layout=compact&theme=react" alt="jotadd's most languages"/>
-</p>
-
-<br>
-
 ## 🤝 Let's be friends
 
 <a href="https://linkedin.com/in/jotadd" target="_blank">
@@ -38,3 +29,13 @@
  <img align="center" src="https://img.shields.io/badge/-JotaDD-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+
+<br><br>
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=jotadd&show_icons=true&theme=react" alt="jotadd's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotadd&layout=compact&theme=react" alt="jotadd's most languages"/>
+</p>
+
+<br>
