@@ -19,6 +19,8 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=next.js&logoColor=white)
 
+![Next](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=green)
+
 ## 🤝 Let's be friends
 
 <a href="https://linkedin.com/in/jotadd" target="_blank">
