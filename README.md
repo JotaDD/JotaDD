@@ -1,9 +1,23 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jotadd&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jotadd&color=blue" alt="Profile views" />
+</p>
 
-<h1 align="center">Hi there!</h1>
 
-<h2 align="center"  style="font-size: 22px">I'm Joao Gomes </h2>
+<h1 align="center" style="font-size: 32px">Hi there! I'm Joao Gomes
+</h1>
 <h2 align="center" style="font-size: 22px">:fire: Junior Web Developer </h2>
+
+<section align="center">
+<a align="center" href="https://linkedin.com/in/jotadd" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"/>
+</a>
+
+<a align="center" href="https://instagram.com/jotadd" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
+</a>
+</section>
+
+
+
 
 ## 📚 Learning and improving 👈
 
@@ -28,6 +42,11 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+
+
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
 
@@ -42,17 +61,6 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white)
-
-## 🤝 Let's be friends
-
-<a href="https://linkedin.com/in/jotadd" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-JotaDD-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
-<a href="https://instagram.com/jotadd" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-JotaDD-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
 
 
 <br><br>
