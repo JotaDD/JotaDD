@@ -2,9 +2,8 @@
 </p>
 
 
-<h1 align="center" style="font-size: 32px">Hi there! I'm Joao Gomes
+<h1 align="center" style="font-size: 32px">Hi there! I'm Joao Gomes - Web Developer
 </h1>
-<h2 align="center" style="font-size: 22px">Web Developer </h2>
 
 <section align="center">
 <a align="center" href="https://linkedin.com/in/jotadd" target="_blank">
